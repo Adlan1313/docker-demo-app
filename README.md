@@ -23,7 +23,7 @@
 
 1. Склонируй репозиторий
 ```bash
-git clone https://github.com/USERNAME/docker-demo-app.git
+git clone https://github.com/Adlan1313/docker-demo-app.git
 cd docker-demo-app
 
 2. Собери Docker образ
